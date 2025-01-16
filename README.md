@@ -20,5 +20,8 @@ Fishing Robot: An automated fishing robot that mimics the movements of a human f
 - Control System: Utilizes ultrasonic sensors, gyro, and motor encoders to perform actions, with an interactable interface to choose how to use robot. 
   
 ### Impact for Employers
-- showcases 
+
+- Showcases skill in building a complete robotic system from concept to completion
+- Demonstrates aptitude to program features for real-time systems
+- Highlights ability to both productively work and lead a team 
 

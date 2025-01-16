@@ -1,4 +1,4 @@
-## MTE 100 LEGO EV3 Fishing robot project TEST
+## MTE 100 LEGO EV3 Fishing robot project
 
 Worked in a team of 4 to create an automated fishing robot prototype made from LEGO and powered by a LEGO EV3 controller and motors. 
 ### Problem 

@@ -1,7 +1,7 @@
 # Project Portfolio
 This repository contains details on all of the projects that I have worked on over the past few years in a portfolio format through this readme file.
 
-## MTE 100 Fishing robot project
+## MTE 100 LEGO EV3 Fishing robot project
 
 Worked in a team of 4 to create an automated fishing robot prototype made from LEGO and powered by a LEGO EV3 controller and motors. 
 ### Problem 
@@ -14,5 +14,11 @@ Fishing Robot: An automated fishing robot that mimics the movements of a human f
 
 ### Key Features
 
-fish
+- Replicates complex human fishing motions through five distinct automated functions - casting, reeling, vertical adjustment, horizontal rotation, and reset capabilities.
+- Gearbox Mechanism: Dynamically disengages the reeling system during casting through a rack and pinion actuator.
+- Modular subsystems: Modular systems for casting, reeling, and positioning functions, allowing for unit testing during building and programming.
+- Control System: Utilizes ultrasonic sensors, gyro, and motor encoders to perform actions, with an interactable interface to choose how to use robot. 
+  
+### Impact for Employers
+- showcases 
 

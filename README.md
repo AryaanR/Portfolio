@@ -2,7 +2,7 @@
 This repository contains details on all of the projects that I have worked on over the past few years in a portfolio format through this readme file.
 
 ## Test MTE100_EV3_Fishing_Robot.[md
-Links]([url](https://github.com/AryaanR/Portfolio/blob/06b3af9f21d9e524f58946e09e61178d978a4745/MTE100_EV3_Fishing_Robot.md))
+## ([MTE 100 Fishing Robot](https://github.com/AryaanR/Portfolio/blob/06b3af9f21d9e524f58946e09e61178d978a4745/MTE100_EV3_Fishing_Robot.md))
 ## MTE 100 LEGO EV3 Fishing robot project
 
 Worked in a team of 4 to create an automated fishing robot prototype made from LEGO and powered by a LEGO EV3 controller and motors. 
